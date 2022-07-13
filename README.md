@@ -1,4 +1,4 @@
-# flutter_ridho
+# flutter
 
 A new Flutter project.
 
